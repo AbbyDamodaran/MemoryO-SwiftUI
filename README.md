@@ -37,6 +37,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![W4 MemoryO Demo](https://github.com/AbbyDamodaran/MemoryO-SwiftUI/assets/78409617/b44dd8ae-39f8-4ccf-8a0e-4c721424e8e8)
 
 
